@@ -49,6 +49,13 @@
 
 #### Xamarin
 Ну тут вообще с нуля
+
+#### WPF
+1. Observable collections
+
+#### WCF
+1. Contracts
+
 ***
 
 ### :sob: Frontend
